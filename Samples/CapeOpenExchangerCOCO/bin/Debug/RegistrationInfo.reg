@@ -1,0 +1,42 @@
+REGEDIT4
+
+[HKEY_CLASSES_ROOT\CapeOpenExchangerCOCO.ExchangerUnitCOCO]
+@="CapeOpenExchangerCOCO.ExchangerUnitCOCO"
+
+[HKEY_CLASSES_ROOT\CapeOpenExchangerCOCO.ExchangerUnitCOCO\CLSID]
+@="{24560354-d48e-433b-8820-0ab41ae90105}"
+
+[HKEY_CLASSES_ROOT\CLSID\{24560354-d48e-433b-8820-0ab41ae90105}]
+@="CapeOpenExchangerCOCO.ExchangerUnitCOCO"
+
+[HKEY_CLASSES_ROOT\CLSID\{24560354-d48e-433b-8820-0ab41ae90105}\InprocServer32]
+@="mscoree.dll"
+"ThreadingModel"="Both"
+"Class"="CapeOpenExchangerCOCO.ExchangerUnitCOCO"
+"Assembly"="CapeOpenExchangerCOCO, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v2.0.50727"
+"CodeBase" = "file:///C:/Documents and Settings/Cinghia/Desktop/CapeOpenToolkit.net/Toolbox/Samples/CapeOpenExchangerCOCO/bin/Debug/CapeOpenExchangerCOCO.dll"
+
+[HKEY_CLASSES_ROOT\CLSID\{24560354-d48e-433b-8820-0ab41ae90105}\InprocServer32\1.0.0.0]
+"Class"="CapeOpenExchangerCOCO.ExchangerUnitCOCOt"
+"Assembly"="CapeOpenExchangerCOCO, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v2.0.50727"
+"CodeBase" = "file:///C:/Documents and Settings/Cinghia/Desktop/CapeOpenToolkit.net/Toolbox/Samples/CapeOpenExchangerCOCO/bin/Debug/CapeOpenExchangerCOCO.dll"
+
+[HKEY_CLASSES_ROOT\CLSID\{24560354-d48e-433b-8820-0ab41ae90105}\ProgId]
+@="CapeOpenExchangerCOCO.ExchangerUnitCOCO"
+
+[HKEY_CLASSES_ROOT\CLSID\{24560354-d48e-433b-8820-0ab41ae90105}\Implemented Categories\{62C8FE65-4EBB-45E7-B440-6E39B2CDBF29}]
+[HKEY_CLASSES_ROOT\CLSID\{24560354-d48e-433b-8820-0ab41ae90105}\Implemented Categories\{678C09A5-7D66-11D2-A67D-00105A42887F}]
+[HKEY_CLASSES_ROOT\CLSID\{24560354-d48e-433b-8820-0ab41ae90105}\Implemented Categories\{0DE86A53-2BAA-11CF-A229-00AA003D7352}]
+[HKEY_CLASSES_ROOT\CLSID\{24560354-d48e-433b-8820-0ab41ae90105}\Implemented Categories\{0DE86A57-2BAA-11CF-A229-00AA003D7352}]
+[HKEY_CLASSES_ROOT\CLSID\{24560354-d48e-433b-8820-0ab41ae90105}\Implemented Categories\{40FC6ED5-2438-11CF-A3DB-080036F12502}]
+
+[HKEY_CLASSES_ROOT\CLSID\{24560354-d48e-433b-8820-0ab41ae90105}\CapeDescription]
+"VendorURL"="http://tempuri.org/"
+"Help"="http://tempuri.org/UnitLibrary1/Unit1"
+"Name"="COCO Unit"
+"Description"="COCO Exchanger .NET"
+"CapeVersion"="1.0-0"
+"About"="UnitLibrary1"
+

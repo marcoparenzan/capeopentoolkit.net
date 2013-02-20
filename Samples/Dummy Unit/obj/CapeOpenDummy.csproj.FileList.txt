@@ -1,0 +1,7 @@
+bin\Debug\CapeOpenDummy.dll
+bin\Debug\CapeOpenDummy.pdb
+bin\Debug\Interop.CAPEOPEN093.dll
+bin\Debug\UnitProxy.dll
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\CapeOpenDummy.dll
+obj\Debug\CapeOpenDummy.pdb

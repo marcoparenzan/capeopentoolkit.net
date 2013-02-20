@@ -1,0 +1,10 @@
+bin\Debug\CapeOpenExchanger.dll
+bin\Debug\CapeOpenExchanger.pdb
+bin\Debug\Interop.CAPEOPEN093.dll
+bin\Debug\UnitProxy.dll
+bin\Debug\UnitProxy.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\CapeOpenExchanger.dll
+obj\Debug\CapeOpenExchanger.pdb
+obj\Debug\CapeOpenExchanger.csproj.GenerateResource.Cache
+obj\Debug\CapeOpenExchanger.ParametersForm.resources

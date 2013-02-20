@@ -1,0 +1,8 @@
+D:\Esperimenti\capeopentoolkit.net\Samples\WAR Unit\bin\Debug\CapeOpenWar.dll.config
+D:\Esperimenti\capeopentoolkit.net\Samples\WAR Unit\bin\Debug\CapeOpenWar.dll
+D:\Esperimenti\capeopentoolkit.net\Samples\WAR Unit\bin\Debug\CapeOpenWar.pdb
+D:\Esperimenti\capeopentoolkit.net\Samples\WAR Unit\bin\Debug\UnitProxy.dll
+D:\Esperimenti\capeopentoolkit.net\Samples\WAR Unit\obj\Debug\CapeOpenWar.csprojResolveAssemblyReference.cache
+D:\Esperimenti\capeopentoolkit.net\Samples\WAR Unit\obj\Debug\CapeOpenWar.dll
+D:\Esperimenti\capeopentoolkit.net\Samples\WAR Unit\obj\Debug\CapeOpenWar.pdb
+D:\Esperimenti\capeopentoolkit.net\Samples\WAR Unit\bin\Debug\UnitProxy.pdb

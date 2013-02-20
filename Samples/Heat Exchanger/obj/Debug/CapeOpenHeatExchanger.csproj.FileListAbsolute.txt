@@ -1,0 +1,10 @@
+D:\Esperimenti\capeopentoolkit.net\Samples\Heat Exchanger\bin\Debug\RegUnit.bat
+D:\Esperimenti\capeopentoolkit.net\Samples\Heat Exchanger\bin\Debug\HeatExchanger.dll
+D:\Esperimenti\capeopentoolkit.net\Samples\Heat Exchanger\bin\Debug\HeatExchanger.pdb
+D:\Esperimenti\capeopentoolkit.net\Samples\Heat Exchanger\bin\Debug\UnitProxy.dll
+D:\Esperimenti\capeopentoolkit.net\Samples\Heat Exchanger\bin\Debug\UnitProxy.pdb
+D:\Esperimenti\capeopentoolkit.net\Samples\Heat Exchanger\obj\Debug\CapeOpenHeatExchanger.csprojResolveAssemblyReference.cache
+D:\Esperimenti\capeopentoolkit.net\Samples\Heat Exchanger\obj\Debug\HeatExchanger.ParametersForm.resources
+D:\Esperimenti\capeopentoolkit.net\Samples\Heat Exchanger\obj\Debug\CapeOpenHeatExchanger.csproj.GenerateResource.Cache
+D:\Esperimenti\capeopentoolkit.net\Samples\Heat Exchanger\obj\Debug\HeatExchanger.dll
+D:\Esperimenti\capeopentoolkit.net\Samples\Heat Exchanger\obj\Debug\HeatExchanger.pdb

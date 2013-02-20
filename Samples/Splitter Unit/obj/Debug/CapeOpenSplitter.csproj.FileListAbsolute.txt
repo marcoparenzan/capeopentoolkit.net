@@ -1,0 +1,7 @@
+D:\Esperimenti\capeopentoolkit.net\Samples\Splitter Unit\bin\Debug\CapeOpenSplitter.dll
+D:\Esperimenti\capeopentoolkit.net\Samples\Splitter Unit\bin\Debug\CapeOpenSplitter.pdb
+D:\Esperimenti\capeopentoolkit.net\Samples\Splitter Unit\bin\Debug\UnitProxy.dll
+D:\Esperimenti\capeopentoolkit.net\Samples\Splitter Unit\obj\Debug\CapeOpenSplitter.csprojResolveAssemblyReference.cache
+D:\Esperimenti\capeopentoolkit.net\Samples\Splitter Unit\obj\Debug\CapeOpenSplitter.dll
+D:\Esperimenti\capeopentoolkit.net\Samples\Splitter Unit\obj\Debug\CapeOpenSplitter.pdb
+D:\Esperimenti\capeopentoolkit.net\Samples\Splitter Unit\bin\Debug\UnitProxy.pdb

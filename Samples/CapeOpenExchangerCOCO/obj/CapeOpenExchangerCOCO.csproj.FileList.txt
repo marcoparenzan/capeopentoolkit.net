@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\CapeOpenExchangerCOCO.dll
+bin\Debug\CapeOpenExchangerCOCO.pdb
+bin\Debug\Interop.CAPEOPEN100.dll
+bin\Debug\Mose.CapeOpenToolkit.UntitProxy1.dll
+bin\Debug\Mose.CapeOpenToolkit.UntitProxy1.pdb
+obj\Debug\CapeOpenExchangerCOCO.dll
+obj\Debug\CapeOpenExchangerCOCO.pdb

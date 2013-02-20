@@ -1,0 +1,8 @@
+bin\Debug\RegCOUnitAsm.exe
+bin\Debug\RegCOUnitAsm.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\RegCOUnitAsm.exe
+obj\Debug\RegCOUnitAsm.pdb
+bin\Debug\UnitProxy.dll
+bin\Debug\Interop.CAPEOPEN093.dll
+bin\Debug\UnitProxy.pdb

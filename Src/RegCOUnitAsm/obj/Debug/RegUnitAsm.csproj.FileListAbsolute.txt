@@ -1,0 +1,6 @@
+D:\Esperimenti\capeopentoolkit.net\Src\RegCOUnitAsm\obj\Debug\RegUnitAsm.exe
+D:\Esperimenti\capeopentoolkit.net\Src\RegCOUnitAsm\obj\Debug\RegUnitAsm.pdb
+D:\Esperimenti\capeopentoolkit.net\Bin\RegUnitAsm.exe
+D:\Esperimenti\capeopentoolkit.net\Bin\RegUnitAsm.pdb
+D:\Esperimenti\capeopentoolkit.net\Src\RegCOUnitAsm\obj\Debug\RegUnitAsm.csprojResolveAssemblyReference.cache
+D:\Esperimenti\capeopentoolkit.net\Bin\RegUnitAsm.exe.config

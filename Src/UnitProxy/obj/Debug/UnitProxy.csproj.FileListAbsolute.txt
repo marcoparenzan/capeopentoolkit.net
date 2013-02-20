@@ -1,0 +1,6 @@
+D:\Esperimenti\capeopentoolkit.net\Src\UnitProxy\obj\Debug\UnitProxy.dll
+D:\Esperimenti\capeopentoolkit.net\Src\UnitProxy\obj\Debug\UnitProxy.pdb
+D:\Esperimenti\capeopentoolkit.net\Bin\UnitProxy.dll
+D:\Esperimenti\capeopentoolkit.net\Bin\UnitProxy.pdb
+D:\Esperimenti\capeopentoolkit.net\Bin\UnitProxy.tlb
+D:\Esperimenti\capeopentoolkit.net\Src\UnitProxy\obj\Debug\UnitProxy.csprojResolveAssemblyReference.cache

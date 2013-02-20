@@ -1,0 +1,8 @@
+bin\Debug\CapeOpenWar.dll
+bin\Debug\CapeOpenWar.pdb
+bin\Debug\Interop.CAPEOPEN093.dll
+bin\Debug\UnitProxy.dll
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\CapeOpenWar.dll
+obj\Debug\CapeOpenWar.pdb
+bin\Debug\CapeOpenWar.dll.config

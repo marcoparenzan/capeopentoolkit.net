@@ -1,0 +1,7 @@
+D:\Esperimenti\capeopentoolkit.net\Samples\Dummy Unit\bin\Debug\CapeOpenDummy.dll
+D:\Esperimenti\capeopentoolkit.net\Samples\Dummy Unit\bin\Debug\CapeOpenDummy.pdb
+D:\Esperimenti\capeopentoolkit.net\Samples\Dummy Unit\bin\Debug\UnitProxy.dll
+D:\Esperimenti\capeopentoolkit.net\Samples\Dummy Unit\obj\Debug\CapeOpenDummy.csprojResolveAssemblyReference.cache
+D:\Esperimenti\capeopentoolkit.net\Samples\Dummy Unit\obj\Debug\CapeOpenDummy.dll
+D:\Esperimenti\capeopentoolkit.net\Samples\Dummy Unit\obj\Debug\CapeOpenDummy.pdb
+D:\Esperimenti\capeopentoolkit.net\Samples\Dummy Unit\bin\Debug\UnitProxy.pdb

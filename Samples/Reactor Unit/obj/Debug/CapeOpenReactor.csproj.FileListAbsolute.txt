@@ -1,0 +1,7 @@
+D:\Esperimenti\capeopentoolkit.net\Samples\Reactor Unit\bin\Debug\CapeOpenReactor.dll
+D:\Esperimenti\capeopentoolkit.net\Samples\Reactor Unit\bin\Debug\CapeOpenReactor.pdb
+D:\Esperimenti\capeopentoolkit.net\Samples\Reactor Unit\bin\Debug\UnitProxy.dll
+D:\Esperimenti\capeopentoolkit.net\Samples\Reactor Unit\obj\Debug\CapeOpenReactor.csprojResolveAssemblyReference.cache
+D:\Esperimenti\capeopentoolkit.net\Samples\Reactor Unit\obj\Debug\CapeOpenReactor.dll
+D:\Esperimenti\capeopentoolkit.net\Samples\Reactor Unit\obj\Debug\CapeOpenReactor.pdb
+D:\Esperimenti\capeopentoolkit.net\Samples\Reactor Unit\bin\Debug\UnitProxy.pdb

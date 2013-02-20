@@ -1,0 +1,7 @@
+bin\Debug\CapeOpenReactor.dll
+bin\Debug\CapeOpenReactor.pdb
+bin\Debug\Interop.CAPEOPEN093.dll
+bin\Debug\UnitProxy.dll
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\CapeOpenReactor.dll
+obj\Debug\CapeOpenReactor.pdb

@@ -1,0 +1,5 @@
+..\..\Bin\RegUnitAsm.exe
+..\..\Bin\RegUnitAsm.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\RegUnitAsm.exe
+obj\Debug\RegUnitAsm.pdb

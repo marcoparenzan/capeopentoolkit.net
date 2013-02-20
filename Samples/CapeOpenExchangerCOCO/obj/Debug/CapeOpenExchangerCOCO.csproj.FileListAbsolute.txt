@@ -1,0 +1,7 @@
+D:\Esperimenti\capeopentoolkit.net\Samples\CapeOpenExchangerCOCO\obj\Debug\CapeOpenExchangerCOCO.csprojResolveAssemblyReference.cache
+D:\Esperimenti\capeopentoolkit.net\Samples\CapeOpenExchangerCOCO\obj\Debug\CapeOpenExchangerCOCO.dll
+D:\Esperimenti\capeopentoolkit.net\Samples\CapeOpenExchangerCOCO\obj\Debug\CapeOpenExchangerCOCO.pdb
+D:\Esperimenti\capeopentoolkit.net\Samples\CapeOpenExchangerCOCO\bin\Debug\CapeOpenExchangerCOCO.dll
+D:\Esperimenti\capeopentoolkit.net\Samples\CapeOpenExchangerCOCO\bin\Debug\CapeOpenExchangerCOCO.pdb
+D:\Esperimenti\capeopentoolkit.net\Samples\CapeOpenExchangerCOCO\bin\Debug\UnitProxy.dll
+D:\Esperimenti\capeopentoolkit.net\Samples\CapeOpenExchangerCOCO\bin\Debug\UnitProxy.pdb

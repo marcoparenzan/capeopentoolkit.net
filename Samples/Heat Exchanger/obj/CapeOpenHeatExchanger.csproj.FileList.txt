@@ -1,0 +1,11 @@
+bin\Debug\Interop.CAPEOPEN093.dll
+bin\Debug\UnitProxy.dll
+bin\Debug\UnitProxy.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\CapeOpenHeatExchanger.csproj.GenerateResource.Cache
+bin\Debug\RegUnit.bat
+bin\Debug\HeatExchanger.dll
+bin\Debug\HeatExchanger.pdb
+obj\Debug\HeatExchanger.ParametersForm.resources
+obj\Debug\HeatExchanger.dll
+obj\Debug\HeatExchanger.pdb
